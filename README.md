@@ -33,3 +33,15 @@ It allows users to submit claims, verify them, and track transactions on a block
 cd backend
 npm install
 npm start
+
+
+ Frontend
+cd frontend
+npm install
+npm start
+
+
+ Blockchain (Hardhat)
+cd hardhat
+npm install
+npx hardhat node
